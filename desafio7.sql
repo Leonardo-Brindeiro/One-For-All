@@ -13,4 +13,4 @@ INNER JOIN
 ON c.artista_id = b.artista_id
 
 GROUP BY album_id	
-ORDER BY seguidores DESC, artista ASC;
+ORDER BY seguidores DESC, artista ASC, album ASC;

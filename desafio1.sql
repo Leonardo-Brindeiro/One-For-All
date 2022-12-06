@@ -65,7 +65,7 @@ DROP DATABASE IF EXISTS SpotifyClone;
     ("Vento de Maio", 1998, 3),
     ("Falso Brilhante", 2001, 3),
     ("QVVJFA?", 2003, 4),
-    ("Somewhere Far Beyond?", 2003, 5),
+    ("Somewhere Far Beyond", 2003, 5),
     ("I Put A Spell On You", 2003, 6);
     
     
